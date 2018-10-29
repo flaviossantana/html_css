@@ -79,6 +79,14 @@ aside div {
     text-align: center;
 }
 
+aside li {
+    display: inline-block;
+}
+
+aside nav li {
+  display: list-item;
+}
+
 footer {
     background-color: #000000;
     color: #F2FFFC;
