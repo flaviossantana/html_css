@@ -33,7 +33,8 @@ aside {
 
 aside a {
     color: inherit; /*Esse valor faz com que a propriedade assuma o valor que foi definido em seu pai (ou ancestral, de um modo geral) em vez de assumir um outro valor.*/
-    font-family: "Open Sans Condensed", sans-serif;;
+    font-family: "Open Sans Condensed", sans-serif;
+    text-decoration: none;
 }
 
 footer {
