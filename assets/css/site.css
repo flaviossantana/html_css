@@ -69,3 +69,18 @@ footer {
 nav a {
     color: #F2FFFC;
 }
+
+#div_pause {
+    margin-bottom: 20px;
+    border-left: 10px solid red;
+    border-right: 10px solid red;
+    width: 5px;
+    height: 30px;
+}
+
+#div_trapezio {
+    border-bottom: 50px solid red;
+    border-left: 60px solid transparent;
+    border-right: 30px solid transparent;
+    width: 0px;
+}
